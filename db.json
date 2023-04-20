@@ -1,21 +1,11 @@
 {
   "projects": [
-    {
-      "name": "testando",
-      "budget": "1555",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    }
+    
   ],
   "categories": [
     {
       "id": 1,
-      "name": "infra"
+      "name": "Infra"
     },
     {
       "id": 2,
