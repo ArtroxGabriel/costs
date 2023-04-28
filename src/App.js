@@ -3,11 +3,14 @@ import Home from './components/pages/Home';
 import Sobre from './components/pages/Sobre';
 import Contato from './components/pages/Contato';
 import NovoProjeto from './components/pages/NovoProjeto';
+import Project from './components/pages/Project';
+import Projects from './components/pages/Projects';
 
 import Container from './components/layout/Container';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
-import Projects from './components/pages/Projects';
+
+
 
 function App() {
   return (
@@ -19,10 +22,11 @@ function App() {
       <Container customClass="min-height"> 
         <Switch>
             <Route exact path="/" element ={<Home/>} />
-            <Route exact path="/projetos" element ={<Projects/>} />
+            <Route path="/projetos" element ={<Projects/>} />
             <Route path="/sobre" element ={<Sobre/>} />
             <Route path="/contato" element ={<Contato/>} />
             <Route path="/novoprojeto" element ={<NovoProjeto/>} />
+            <Route path="/project/:id" element ={<Project/>} />
         </Switch>
       </Container>
       <Footer />

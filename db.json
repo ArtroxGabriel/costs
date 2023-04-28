@@ -1,6 +1,16 @@
 {
   "projects": [
-    
+    {
+      "name": "Gabriel",
+      "budget": "55555",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    }
   ],
   "categories": [
     {
