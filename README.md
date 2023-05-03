@@ -1,2 +1,2 @@
 # Meu primeiro projeto em React
->Antonio Gabriel - Estudante de Ciência da computação
+>Antonio Gabriel - Estudante de Ciência da computação da UFC
