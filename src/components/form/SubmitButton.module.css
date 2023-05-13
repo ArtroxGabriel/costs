@@ -1,12 +1,12 @@
 .btn {
-    background-color: #222;
-    color: #fff;
-    padding: 0.7em 1.2em;
-    text-decoration: none;
-    cursor: pointer;
-    border: none;
+  background-color: #222;
+  color: #fff;
+  padding: 0.7em 1.2em;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
 }
 
-.btn:hover{
-    color: #2811d1
+.btn:hover {
+  color: #2811d1;
 }
