@@ -8,7 +8,7 @@
 
 .project_card h4{
     background-color: #222;
-    color: #ffbb33;
+    color: #2811d1;
     padding: 0.4em;
     margin-bottom: 1.3em;
     font-size: 1.3em;
@@ -86,5 +86,5 @@
 .project_card_action a:hover,
 .project_card_action button:hover{
     background-color: #222;
-    color: #ffbb33
+    color: #2811d1
 }

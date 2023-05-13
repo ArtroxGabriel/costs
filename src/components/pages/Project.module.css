@@ -11,7 +11,7 @@
 
 .project_details h1 {
     background-color: #222;
-    color: #ffbb33;
+    color: #2811d1;
     padding: .4em;
 }
 
@@ -41,7 +41,7 @@
 }
 
 .btn:hover{
-    color:  #ffbb33;
+    color:  #2811d1;
 }
 
 .project_info {
