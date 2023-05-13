@@ -1,35 +1,5 @@
 {
-  "projects": [
-    {
-      "name": "Gabriel",
-      "budget": "100000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 7889,
-      "services": [
-        {
-          "name": "1111",
-          "cost": "8888",
-          "description": "ts",
-          "id": "85285a44-d350-4ade-bddd-8efc96000713"
-        }
-      ],
-      "id": 1
-    },
-    {
-      "name": "Mileide",
-      "budget": "99999999999999999999999999999999",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,
