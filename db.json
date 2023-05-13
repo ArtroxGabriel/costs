@@ -2,24 +2,18 @@
   "projects": [
     {
       "name": "Gabriel",
-      "budget": "1000",
+      "budget": "100000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 1000,
+      "cost": 7889,
       "services": [
         {
-          "name": "Mileide casamento",
-          "cost": "999",
-          "description": "te amo amor",
-          "id": "e6f77fad-bc76-4899-8971-ee5a9b015fc9"
-        },
-        {
-          "cost": "1",
-          "name": "aaa",
-          "description": "sss",
-          "id": "ac45c4db-495d-40ab-b597-1239eebe0996"
+          "name": "1111",
+          "cost": "8888",
+          "description": "ts",
+          "id": "85285a44-d350-4ade-bddd-8efc96000713"
         }
       ],
       "id": 1
